@@ -28,7 +28,7 @@ git checkout -b feature/pratica09
 2. Crie uma nova pasta chamada `pratica09`.
 3. Desenvolva os arquivos solicitados:
 - `concatenar_nome.c`: Ler o primeiro nome e o último nome de uma pessoa. Concatenar os dois em uma única string e exibi-la na tela;
-- `ordenar_strings.c`: Ler duas strings do usuário e exibir as duas em ordem alfabética;
+- `ordenar_strings.c`: Ler três strings do usuário e exibir as strings em ordem alfabética;
 - `verbo_ar.c`: Ler um verbo digitado pelo usuário e verificar se ele termina com "ar";
 - `lista_de_palavras.c`: Ler N palavras e armazená-las em um vetor de strings. Em seguida, imprimir todas as palavras lidas.
 

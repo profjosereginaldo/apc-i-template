@@ -28,7 +28,7 @@ git checkout -b feature/pratica05
 1. No painel esquerdo do VSCode, localize a pasta `praticas`.
 2. Crie uma nova pasta chamada `pratica05`.
 3. Desenvolva os arquivos solicitados:
-- `operadores_aritmeticos.c`: er dois números reais fornecidos pelo usuário e exibir os resultados das quatro operações aritméticas básicas (adição, subtração, multiplicação e divisão);
+- `operadores_aritmeticos.c`: Ler dois números reais fornecidos pelo usuário e exibir os resultados das quatro operações aritméticas básicas (adição, subtração, multiplicação e divisão);
 - `decompor_numero.c`: Ler um número inteiro de quatro dígitos fornecido pelo usuário e exibir sua decomposição em milhares, centenas, dezenas e unidades;
 - `incremento_decremento.c`: Ler um número inteiro e exibir os resultados das operações de incremento e decremento nas formas pré-fixada e pós-fixada;
 - `calcula_impostos.c`: Definir constantes para as alíquotas de ICMS (17%), ISS (5%) e PIS (1,65%). Em seguida, ler o valor de um produto e calcular o valor de cada imposto individualmente, além do preço final, utilizando a fórmula: `(1+ICMS+ISS+PIS)×valor`.

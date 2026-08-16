@@ -28,7 +28,7 @@ O compilador GCC transforma o texto que você escreve na linguagem C em um progr
 
 #### Windows
 
-1. Baixe o [w64devkit](https://github.com/skeeto/w64devkit/releases) (escolha o arquivo `.zip`).
+1. Baixe o [w64devkit](https://github.com/skeeto/w64devkit/releases) (escolha o arquivo `.7z.exe`).
 2. Extraia para uma pasta, por exemplo `C:\w64devkit`.
 3. Adicione a pasta `bin` ao PATH do Windows:
    - Pressione `Win + R`, digite `sysdm.cpl` e pressione `Enter`.
